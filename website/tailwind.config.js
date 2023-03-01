@@ -15,7 +15,8 @@ module.exports = {
             colors: {
                 dark: 'rgb(12 12 13 / 1)',
                 super: '#e74142',
-                background: '#f5f5f5',
+                background: '#faf9f9',
+                green: '#2099a1',
             },
         },
         screens: {},
